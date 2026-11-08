@@ -1,4 +1,3 @@
-```yaml
 name: sonu
 description: تطبيق سونو للموسيقى
 publish_to: "none"
@@ -19,4 +18,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-```
